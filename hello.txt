@@ -1,4 +1,4 @@
 hello!
 
 gitの操作について学んでいきます。
-branch_aを新しく作ってbranch_aで作業しています
+branch_aで作業が完了しました
